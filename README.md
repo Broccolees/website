@@ -1,2 +1,2 @@
-# website
-My website skeleton
+# Collection
+My Yugioh Collection
